@@ -12,5 +12,10 @@
         "maintainer": true
     },
     "license": "MIT",
-    "headers": "Components.h"
+    "headers": "Components.h",
+    "frameworks": [
+        "arduino",
+        "espidf"
+    ],
+    "platforms": "*"
 }
