@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "Components",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/foo/bar.git"
+    },
+    "license": "MIT",
+    "headers": "Components.h"
+}
