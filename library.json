@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "branch": "master",
         "url": "https://github.com/greenbundle/arduino-components.git"
     },
     "authors": {
